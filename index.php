@@ -1,6 +1,3 @@
-<html>
-<body>
-	
 <?php
 date_default_timezone_set('UTC');
 
@@ -126,7 +123,3 @@ if ($err) {
 }
 
 ?>
-
-
-</body>
-</html>
